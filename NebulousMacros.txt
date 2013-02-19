@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+    <array>
+        <array>
+            <string>$left</string>
+            <string> ◂ </string>
+        </array>
+        <array>
+            <string>$right</string>
+            <string> ▸ </string>
+        </array>
+        <array>
+            <string>#</string>
+            <string> # </string>
+        </array>
+        <array>
+            <string>-</string>
+            <string> - </string>
+        </array>
+        <array>
+            <string>*</string>
+            <string> * </string>
+        </array>
+        <array>
+            <string>&lt;code&gt;$cursor&lt;/code&gt;</string>
+            <string>Code</string>
+        </array>
+        <array>
+            <string>&gt;</string>
+            <string>quote</string>
+        </array>
+        <array>
+            <string>![$cursor]()</string>
+            <string>Img</string>
+        </array>
+        <array>
+            <string>[$cursor]()</string>
+            <string>Link</string>
+        </array>
+        <array>
+            <string>http://$cursor</string>
+            <string>http://</string>
+        </array>
+        <array>
+            <string>![$cursor]($paste)</string>
+            <string>(P)Img</string>
+        </array>
+        <array>
+            <string>[$cursor]($paste)</string>
+            <string>(P)Link</string>
+        </array>
+        <array>
+            <string>$undo</string>
+            <string> ↶ </string>
+        </array>
+    </array>
+</plist>
