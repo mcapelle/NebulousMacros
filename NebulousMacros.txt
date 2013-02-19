@@ -28,7 +28,7 @@
         </array>
         <array>
             <string>&gt;</string>
-            <string>quote</string>
+            <string>Quote</string>
         </array>
         <array>
             <string>![$cursor]()</string>
